@@ -1,0 +1,20 @@
+.todos {
+  padding: 0;
+  width: 15em;
+  list-style: none;
+}
+
+.todos li {
+  background-color: #abffa4;
+  color: rgb(131, 96, 255);
+  padding: 4px;
+  margin: 5px 20px;
+}
+
+.crossButton {
+  float: right;
+  background-color: rgb(255, 130, 130);
+  padding: 0 5px 0 5px;
+  cursor: pointer;
+  color: white;
+}
